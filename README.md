@@ -3,7 +3,7 @@
 ![Banner](./banner.jpeg)
 I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with a strong drive towards data manipulation, analisation and presentation. I'm passionate about discovering new tools, features, languages and frameworks and using them to unlock and shed light on the endless secrets hidden in data.
 ## Languages, frameworks and packages
-<a href="https://www.postgresql.org/"><img style="width:1.5rem" alt="PostgreSQL" src="https://www.postgresql.org/"> PostgreSQL</a>
+<a href="https://www.postgresql.org/"><img style="width:5%" alt="PostgreSQL" src="postgresql.png"></a> PostgreSQL
 - BeautifulSoup
 - Pandas
 - NumPy
