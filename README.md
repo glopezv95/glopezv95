@@ -1,16 +1,13 @@
 # Gabriel López Vinielles
-## <img style="width:1rem;" src= "database.png" /> Data | <img style="width:1rem" src="nature.png" /> Environment | Chemistry
+## <img style="width:1rem;" alt="Database" src= "database.png" /> Data | <img style="width:1rem" alt="Leaves" src="nature.png" /> Environment | <img style="width:1rem" alt="Flask" src="flask.png" /> Chemistry
 ![Banner](./banner.jpeg)
-I'm a psychologist, Environmental Scientist and Data Scientist with a strong drive towards data manipulation, analisation and presentation. I'm passionate about discovering new tools, features, languages and frameworks and using them to unlock and shed light on the endless secrets hidden in data.
+I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with a strong drive towards data manipulation, analisation and presentation. I'm passionate about discovering new tools, features, languages and frameworks and using them to unlock and shed light on the endless secrets hidden in data.
 ## Languages, frameworks and packages
-<div>
-  <p>PostgreSQL</p>
-  <p>BeautifulSoup</p>
-  <p>Pandas</p>
-  <p>NumPy</p>
-  <p>PowerQuery</p>
-</div>
-
+<a href="https://www.postgresql.org/"><img style="width:1.5rem" alt="PostgreSQL" src="https://www.postgresql.org/"> PostgreSQL</a>
+- BeautifulSoup
+- Pandas
+- NumPy
+- PowerQuery
 ### Tranformation
 - Pandas
 - Scikit-learn
