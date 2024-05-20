@@ -1,5 +1,5 @@
 # Gabriel López Vinielles
-## Data | Environment | Chemistry
+## <img style="width:1rem;" src= "database.png" /> Data | Environment | Chemistry
 ![Banner](./banner.jpeg)
 I'm a psychologist, Environmental Scientist and Data Scientist with a strong drive towards data manipulation, analisation and presentation. I'm passionate about discovering new tools, features, languages and frameworks and using them to unlock and shed light on the endless secrets hidden in data.
 ## Languages, frameworks and packages
