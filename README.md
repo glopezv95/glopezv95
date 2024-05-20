@@ -9,10 +9,6 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
   <a href="https://pandas.pydata.org/"><img style="width:5%" alt="Pandas" src="pandas.svg"></a>
   <a href="https://numpy.org/"><img style="width:5%" alt="Numpy" src="https://github.com/glopezv95/glopezv95/assets/114870401/03634eaf-6916-4823-8eba-c559ba1a1d58"></a>
   <a href="https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query"><img style="width:5%" alt="PowerQuery" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg"></a>
-- BeautifulSoup
-- Pandas
-- NumPy
-- PowerQuery
 ### Tranformation
 - Pandas
 - Scikit-learn
