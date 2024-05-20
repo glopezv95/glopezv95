@@ -4,7 +4,8 @@
 I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with a strong drive towards data manipulation, analisation and presentation. I'm passionate about discovering new tools, features, languages and frameworks and using them to unlock and shed light on the endless secrets hidden in data.
 ## Languages, frameworks and packages
 ### Extraction
-<a href="https://www.postgresql.org/" target="_blank"><img style="width:5%" alt="PostgreSQL" src="postgresql.png"></a>
+  <a href="https://www.postgresql.org/"><img style="width:5%" alt="PostgreSQL" src="postgresql.png"></a>
+  <a href="https://beautiful-soup-4.readthedocs.io/en/latest/"><img style="width:5%" alt="BeautifulSoup" src="beautifulsoup.jpg"></a>
 - BeautifulSoup
 - Pandas
 - NumPy
