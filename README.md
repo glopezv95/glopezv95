@@ -1,9 +1,10 @@
 # Gabriel López Vinielles
 ## <img style="width:1rem;" alt="Database" src= "database.png" /> Data | <img style="width:1rem" alt="Leaves" src="nature.png" /> Environment | <img style="width:1rem" alt="Flask" src="flask.png" /> Chemistry
-![Banner](./banner.jpeg)
+![Banner](banner.jpeg)
 I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with a strong drive towards data manipulation, analisation and presentation. I'm passionate about discovering new tools, features, languages and frameworks and using them to unlock and shed light on the endless secrets hidden in data.
 ## Languages, frameworks and packages
-<a href="https://www.postgresql.org/"><img style="width:5%" alt="PostgreSQL" src="postgresql.png"></a> PostgreSQL
+### Extraction
+<a href="https://www.postgresql.org/"><img style="width:5%" alt="PostgreSQL" src="postgresql.png"></a>
 - BeautifulSoup
 - Pandas
 - NumPy
