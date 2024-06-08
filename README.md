@@ -23,9 +23,9 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
 
 ### Reporting
 <p align="center" margin-bottom="1rem">
-  <a href="https://matplotlib.org/"><img style="width:7%" alt="Matplotlib" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" hspace="50"></a>
-  <a href="https://seaborn.pydata.org/"><img style="width:7%" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" hspace="50"></a>
-  <a href="https://plotly.com/graphing-libraries/"><img style="width:7%" alt="Plotly" src="https://plotly.com/all_static/images/graphing_library.svg" hspace="50"></a>
+  <a href="https://matplotlib.org/"><img style="width:7%" alt="Matplotlib" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" hspace="50"></a>
+  <a href="https://seaborn.pydata.org/"><img style="width:7%" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" hspace="50"></a>
+  <a href="https://plotly.com/graphing-libraries/"><img style="width:7%" alt="Plotly" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" hspace="50"></a>
   <a href="https://dash.plotly.com/"><img style="width:7%" alt="Dash" src="https://dash.plotly.com/assets/images/plotly_logo_dark.png" hspace="50"></a>
   <a href="https://streamlit.io/"><img style="width:7%" alt="Streamlit" src="https://docs.streamlit.io/logo.svg" hspace="50"></a>
 </p>
