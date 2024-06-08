@@ -37,3 +37,4 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img style="width:7%" alt="Javascript" src="https://th.bing.com/th?id=OSK.38bfba7d039dffa7a740377ef24d2e7e&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=2&pid=SANGAM" hspace="50"></a>
   <a href="https://es.react.dev/"><img style="width:7%" alt="React" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" hspace="50"></a>
 </p>
+<br>
