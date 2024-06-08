@@ -5,7 +5,6 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
 
 ## Languages, frameworks and packages
 ### Extraction
-
 <p align="center">
   <a href="https://www.postgresql.org/"><img style="width:7%" alt="PostgreSQL" src="postgresql.png" hspace="50"></a>
   <a href="https://beautiful-soup-4.readthedocs.io/en/latest/"><img style="width:7%" alt="BeautifulSoup" src="beautifulsoup.jpg" hspace="50"></a>
@@ -20,7 +19,8 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
   <a href="https://pandas.pydata.org/"><img style="width:7%" alt="Pandas" src="pandas.svg" hspace="50"></a>
   <a href="https://scikit-learn.org/stable/index.html"><img style="width:7%" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" hspace="50"></a>
   <a href="https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query"><img style="width:7%" alt="PowerQuery" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg" hspace="50"></a>
-  
+</p>
+
 ### Reporting
 <p align="center" margin-bottom="1rem">
   <a href="https://matplotlib.org/"><img style="width:7%" alt="Matplotlib" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" hspace="50"></a>
