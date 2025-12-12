@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with a strong drive towards data manipulation, analisation and presentation. I'm passionate about discovering new tools, features, languages and frameworks and using them to unlock and shed light on the endless secrets hidden in data.
+I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with a strong drive towards automation, data manipulation, analysis and presentation. I'm passionate about discovering new tools, features, languages and frameworks and using them to unlock and shed light on the endless secrets hidden in data.
 
 ## Languages, frameworks and packages
 ### Extraction
