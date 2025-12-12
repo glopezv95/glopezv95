@@ -5,15 +5,15 @@
     <th>
       <img style="width:2rem" alt="Database" src= "database.png" />
     </th>
-    <th>&emsp;&emsp;Data&emsp;&emsp;</th>
+    <th>&emsp;&emsp;&emsp;Data&emsp;&emsp;&emsp;</th>
     <th>
       <img style="width:2rem" alt="Leaves" src="nature.png" />
     </th>
-    <th>&emsp;&emsp;Environment&emsp;&emsp;</th>
+    <th>&emsp;&emsp;&emsp;Environment&emsp;&emsp;&emsp;</th>
     <th>
       <img style="width:2rem" alt="Flask" src="flask.png" />
     </th>
-    <th>&emsp;&emsp;Chemistry&emsp;&emsp;</th>
+    <th>&emsp;&emsp;&emsp;Chemistry&emsp;&emsp;&emsp;</th>
   </tr>
 </table>
 
