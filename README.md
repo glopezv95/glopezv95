@@ -27,6 +27,7 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
   <a href="https://www.postgresql.org/"><img style="width:7%" alt="PostgreSQL" src="postgresql.png" hspace="3%"></a>
   <a href="https://beautiful-soup-4.readthedocs.io/en/latest/"><img style="width:7%" alt="BeautifulSoup" src="beautifulsoup.jpg" hspace="3%"></a>
   <a href="https://pandas.pydata.org/"><img style="width:7%" alt="Pandas" src="pandas.svg" hspace="3%"></a>
+  <a href="https://pola.rs/"><img style="width:7%" alt="Polars" src="polars_logo.svg" hspace="3%"></a>
   <a href="https://numpy.org/"><img style="width:7%" alt="Numpy" src="https://github.com/glopezv95/glopezv95/assets/114870401/03634eaf-6916-4823-8eba-c559ba1a1d58" hspace="3%"></a>
   <a href="https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query"><img style="width:7%" alt="PowerQuery" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg" hspace="3%"></a>
 </p>
@@ -37,6 +38,7 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
 <br>
 <p align="center">
   <a href="https://pandas.pydata.org/"><img style="width:7%" alt="Pandas" src="pandas.svg" hspace="3%"></a>
+  <a href="https://pola.rs/"><img style="width:7%" alt="Polars" src="polars_logo.svg" hspace="3%"></a>
   <a href="https://scikit-learn.org/stable/index.html"><img style="width:7%" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" hspace="3%"></a>
   <a href="https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query"><img style="width:7%" alt="PowerQuery" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg" hspace="3%"></a>
 </p>
