@@ -4,6 +4,7 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
 
 ## Languages, frameworks and packages
 ### Extraction
+-----
 <br>
 <p align="center">
   <a href="https://www.postgresql.org/"><img style="width:7%" alt="PostgreSQL" src="postgresql.png" hspace="3%"></a>
@@ -15,7 +16,7 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
 <br>
 
 ### Tranformation
-
+-----
 <br>
 <p align="center">
   <a href="https://pandas.pydata.org/"><img style="width:7%" alt="Pandas" src="pandas.svg" hspace="3%"></a>
@@ -25,7 +26,7 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
 <br>
 
 ### Reporting
-
+-----
 <br>
 <p align="center" margin-bottom="1rem">
   <a href="https://matplotlib.org/"><img style="width:7%" alt="Matplotlib" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" hspace="3%"></a>
