@@ -1,5 +1,22 @@
 # Gabriel López Vinielles
-## <img style="width:1rem;" alt="Database" src= "database.png" /> Data | <img style="width:1rem" alt="Leaves" src="nature.png" /> Environment | <img style="width:1rem" alt="Flask" src="flask.png" /> Chemistry
+
+<table>
+  <tr>
+    <th>
+      <img style="width:2rem" alt="Database" src= "database.png" />
+    </th>
+    <th>&emsp;&emsp;&emsp;&emsp;&emsp;Data&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+    <th>
+      <img style="width:2rem" alt="Leaves" src="nature.png" />
+    </th>
+    <th>&emsp;&emsp;&emsp;&emsp;&emsp;Environment&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+    <th>
+      <img style="width:2rem" alt="Flask" src="flask.png" />
+    </th>
+    <th>&emsp;&emsp;&emsp;&emsp;&emsp;Chemistry&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+  </tr>
+</table>
+
 I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with a strong drive towards data manipulation, analisation and presentation. I'm passionate about discovering new tools, features, languages and frameworks and using them to unlock and shed light on the endless secrets hidden in data.
 
 ## Languages, frameworks and packages
