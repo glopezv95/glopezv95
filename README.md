@@ -33,7 +33,7 @@ I'm a **Psychologist**, **Environmental Scientist** and **Data Scientist** with 
 </p>
 <br>
 
-### Tranformation
+### Transformation
 -----
 <br>
 <p align="center">
